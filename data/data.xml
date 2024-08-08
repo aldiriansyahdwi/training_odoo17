@@ -1,0 +1,10 @@
+<odoo>
+    <!-- <record id="data_course_1" model="training.course">
+        <field name="name">the first name</field>
+        <field name="description">the first description of data course 1</field>
+    </record>
+    <record id="data_course_3" model="training.course"> 
+        <field name="name">Python From Data</field> 
+        
+    </record>  -->
+</odoo>
